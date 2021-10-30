@@ -1,4 +1,4 @@
 import './scss/main.scss'
 import './js/apiService.js'
-import './js/fetchGallery'
-import './js/refs'
+import './js/fetchGallery.js'
+import './js/refs.js'
